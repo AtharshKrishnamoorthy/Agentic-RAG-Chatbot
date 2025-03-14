@@ -1,0 +1,12 @@
+agno
+openai
+groq
+google-genai
+sqlalchemy
+duckduckgo-search
+pypdf
+lancedb
+fastapi
+uvicorn
+streamlit
+cohere
